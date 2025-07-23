@@ -1,4 +1,5 @@
 ## Análisis Descriptivo de Edad y Tarifas en el Titanic
+En los archivos de este repositorio se incluye el script utilizado en **RStudio** así como el análisis realizado a partir del dataset proporcionado.
 
 Se realizó un análisis de edad considerando solo a los pasajeros con ese dato disponible. Se agruparon según su supervivencia y se calcularon la edad promedio, mediana y máxima. Entre los pasajeros que **no sobrevivieron**, la edad promedio fue de **30.1 años**, la mediana de **27 años** y la edad máxima de **67 años**. Para los que **sí sobrevivieron**, la edad promedio fue de **30.3 años**, la mediana también de **27 años** y la edad máxima alcanzó los **76 años**, lo que indica que ambos grupos tienen una distribución etaria similar, aunque con una ligera diferencia en los extremos.
 
